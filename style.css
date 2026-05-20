@@ -1,8 +1,9 @@
 body{
     margin: 0;
     padding: 0;
-    background-image: url("slike/https://raw.githubusercontent.com/Nemax2/Projekat/refs/heads/main/slike/pozadina.jpg");
-    background-repeat: repeat;
+    background-image: url("pozadina32.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 ul {
